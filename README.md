@@ -4,7 +4,7 @@
 - (rule base) => 0.132
 - (content base with TXT) => 0.132
 - (content base with Img) => 0.169
-- (collaborative filter) => 0.169
+- (collaborative filter) => 0.171
 
 使用邏輯如下
 
@@ -116,7 +116,7 @@ TF-IDF分析(之前學員的分享幫助很大，又加入了介係詞的過濾�
 3. 曾經看過的，完全沒購買
 
 
-# 結論
+- 結論
 
 若user為新
 1. 抓取(近期+一年前夏秋)median5分商品
