@@ -2,7 +2,7 @@
 
 分數疊代過程
 - (rule base) => 0.132
-- (content base with TXT) => 0.132
+- (content base with TXT) => 0.141
 - (content base with Img) => 0.169
 - (collaborative filter) => 0.171
 
