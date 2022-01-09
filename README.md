@@ -5,9 +5,8 @@
 (rule base) => 0.132
 (content base with TXT) => 0.132
 (content base with Img) => 0.169
-(collaborative filter) => 0.171
+(collaborative filter) => 0.169
 =====================
-# content_based_filter.ipynb (content base)
 
 使用邏輯如下
 
